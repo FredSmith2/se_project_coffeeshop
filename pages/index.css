@@ -130,6 +130,12 @@
   list-style-type: none;
 }
 
+.recipes__iframe {
+  border: 0;
+  width: 560px;
+  height: 315px;
+}
+
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
