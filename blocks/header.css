@@ -7,6 +7,8 @@
   background-image: url(../images/se_project_2_files/background_header.svg);
   background-size: cover;
   position: relative;
+  background-position: center;
+  z-index: 1;
 }
 
 .header__image {
@@ -15,6 +17,7 @@
   right: 5px;
   height: 568px;
   width: 646px;
+  z-index: -1;
 }
 
 .header__title {
@@ -33,7 +36,6 @@
   display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
-  font-size: 60px;
   line-height: 72px;
 }
 
