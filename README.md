@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+This project was very helpful in exercising my new abilities. I would definitely have liked to practice more of the animation elements and worked a lot more with modifiers to sharpen up those skills. I look forward to the next project.
