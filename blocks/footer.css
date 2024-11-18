@@ -20,7 +20,7 @@
   font-family: "Inter", "Arial", sans-serif;
   font-weight: bold;
   font-style: 16px;
-  line-height: 20;
+  line-height: 20px;
 }
 
 .footer__list {
@@ -39,7 +39,7 @@
   align-items: center;
   font-family: "Inter", "Arial", sans-serif;
   font-style: 16px;
-  line-height: 20;
+  line-height: 20px;
   transition: opacity 0.5s;
 }
 
@@ -57,5 +57,5 @@
   margin: 108px 0 0;
   font-family: "Inter", "Arial", sans-serif;
   font-style: 16px;
-  line-height: 20;
+  line-height: 20px;
 }
